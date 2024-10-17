@@ -7,3 +7,5 @@ Clone it and run:
 $ go run vector.go
 
 Simples.
+
+The HKDF code is lifted from https://github.com/bifurcation/mint/. Thank you Richard!
